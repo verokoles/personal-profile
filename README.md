@@ -1,1 +1,3 @@
-# personal-profile
+# Personal-Profile
+
+## Usage
